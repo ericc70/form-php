@@ -34,7 +34,7 @@ require './inc/head.php';
                     </div>
                     </form>
                 
-                    <?php
+<?php
 
 
 require './inc/foot.php';
